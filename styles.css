@@ -1,0 +1,44 @@
+.body {
+    display: flex;
+    justify-content: center;
+    align-items: stretch;
+
+}
+
+.page {
+    border: solid 2px blue;
+    display: flex;
+    height: 100vh;
+    flex-direction: column;
+    justify-content: space-between;
+}
+
+.one {
+    border: solid 2px green;
+    display: flex;
+    flex-grow: 1;
+}
+
+.two {
+    border: solid 2px green;
+    display: flex;
+    flex-grow: 1;
+}
+
+.three {
+    border: solid 2px green;
+    display: flex;
+    flex-grow: 1;
+}
+
+.four {
+    border: solid 2px green;
+    display: flex;
+    flex-grow: 1;
+}
+
+.five {
+    border: solid 2px green;
+    display: flex;
+    flex-grow: 1;
+}
