@@ -107,6 +107,7 @@ li {
     border-radius: 10px;
     color: white;
     align-items: center;
+    justify-content: space-around;
 }
 
 footer {
@@ -144,10 +145,13 @@ button {
     width: 120px;
     padding: 5px;
     border-radius: 10px;
+    border: solid 0px white;
 }
 
 img {
     width: 100px;
+    border: solid 2px #3882F6;
+    border-radius: 10px;
 }
 
 .box-one,.box-two,.box-three,.box-four {
@@ -157,4 +161,8 @@ img {
     justify-content: center;
     align-items: center;
     text-align: center;
+}
+
+.four-right button {
+    border: solid 1px white;
 }
