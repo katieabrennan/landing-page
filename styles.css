@@ -71,7 +71,7 @@ li {
 
 .carousel {
     display: flex;
-    gap: 70px;
+    gap: 100px;
     align-items: center;
 }
 
@@ -149,7 +149,7 @@ button {
 }
 
 img {
-    width: 100px;
+    width: 130px;
     border: solid 2px #3882F6;
     border-radius: 10px;
 }
